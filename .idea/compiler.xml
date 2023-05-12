@@ -11,9 +11,6 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="project-consumer-start" target="1.8" />
-      <module name="project-producer-start" target="1.8" />
-      <module name="project-start" target="1.8" />
       <module name="Valid-invalids" target="17" />
     </bytecodeTargetLevel>
   </component>
