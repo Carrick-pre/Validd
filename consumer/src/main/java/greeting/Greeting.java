@@ -1,4 +1,4 @@
-
+package greeting;
 public class Greeting {
     private String greeting;
 

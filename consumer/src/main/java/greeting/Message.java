@@ -1,4 +1,4 @@
-
+package greeting;
 
 public class Message {
     private long id;

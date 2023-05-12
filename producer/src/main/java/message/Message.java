@@ -1,3 +1,5 @@
+package message;
+
 public class Message {
     private final long id;
     private final String message;
